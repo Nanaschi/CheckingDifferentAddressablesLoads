@@ -7,6 +7,6 @@ public class InitAddr : MonoBehaviour
 {
 public void Start()
 {
-    Addressables.LoadSceneAsync("Various Cars");
+   var smth=   Addressables.LoadSceneAsync("Various Cars");
 }
 }

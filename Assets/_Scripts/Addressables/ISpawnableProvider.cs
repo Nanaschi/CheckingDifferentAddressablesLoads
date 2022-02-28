@@ -1,5 +1,7 @@
 ﻿
+    using System.Threading.Tasks;
+
     public interface ISpawnableProvider
     {
-        void InstantiateContent();
+        Task RemoteReferenceLoad();
     }

@@ -14,6 +14,13 @@ public class UIReferenceController : MonoBehaviour
     [SerializeField] private Button _remoteReleaseInstance;
     [SerializeField] private Button _loadEmptyScene;
     [SerializeField] private Button _loadTheSameScene;
+    [SerializeField] private Button _clearCurrentScene;
+
+    public Button ClearCurrentScene
+    {
+        get => _clearCurrentScene;
+        set => _clearCurrentScene = value;
+    }
 
     public Button LoadEmptyScene
     {
