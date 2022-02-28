@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16d0ce1d68324990bf349873e1c158c7, type: 3}
+  m_Name: MainTowerDialogContainer
+  m_EditorClassIdentifier: 
+  _dialogPages:
+  - {fileID: 3898781547330695438, guid: 8538c2ef74c42c64aaebb015d9bd2984, type: 3}
+  - {fileID: 3898781547330695438, guid: 1dbaa7ddd07b7b845872a05ce6f72707, type: 3}
+  - {fileID: 5162235414557524797, guid: ab3cc20be039a5f4a9b377bcce2234bb, type: 3}

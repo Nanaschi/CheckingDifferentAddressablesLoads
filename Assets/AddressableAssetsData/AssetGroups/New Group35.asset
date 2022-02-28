@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: New Group35
+  m_EditorClassIdentifier: 
+  m_GroupName: New Group35
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0919bc7aef2ffc846a6dd3d786349cdf
+  m_SerializeEntries:
+  - m_GUID: c5aae03e55cf3c14aa9ecedbfa4a54ab
+    m_Address: Assets/Content/Textures/Exterior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bebd67649ebbdb7409d98f04bb7d052b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 228f38bdf3d65e1409dfc41fb3b3d069, type: 2}
+    - {fileID: 11400000, guid: 3b401619e11dba7479e586ea161fed54, type: 2}

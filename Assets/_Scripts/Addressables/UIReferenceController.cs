@@ -6,25 +6,62 @@ using UnityEngine.UI;
 
 public class UIReferenceController : MonoBehaviour
 {
-    [SerializeField] private Button _contentToInstantiate;
-    [SerializeField] private Button _referenceToInstantiate;
-    [SerializeField] private Button _referenceToInstantiateRemotely;
+    [SerializeField] private Button _remoteReference;
+    [SerializeField] private Button _remoteInstantiate;
+    [SerializeField] private Button _remoteUnload;
+    [SerializeField] private Button _remoteDestroy;
+    [SerializeField] private Button _remoteInstantiateAsync;
+    [SerializeField] private Button _remoteReleaseInstance;
+    [SerializeField] private Button _loadEmptyScene;
+    [SerializeField] private Button _loadTheSameScene;
 
-    public Button ReferenceToInstantiateRemotely
+    public Button LoadEmptyScene
     {
-        get => _referenceToInstantiateRemotely;
-        set => _referenceToInstantiateRemotely = value;
+        get => _loadEmptyScene;
+        set => _loadEmptyScene = value;
     }
 
-    public Button ReferenceToInstantiate
+    public Button LoadTheSameScene
     {
-        get => _referenceToInstantiate;
-        set => _referenceToInstantiate = value;
+        get => _loadTheSameScene;
+        set => _loadTheSameScene = value;
     }
 
-    public Button ContentToInstantiate
+    public Button RemoteInstantiateAsync
     {
-        get => _contentToInstantiate;
-        set => _contentToInstantiate = value;
+        get => _remoteInstantiateAsync;
+        set => _remoteInstantiateAsync = value;
+    }
+
+    public Button RemoteReleaseInstance
+    {
+        get => _remoteReleaseInstance;
+        set => _remoteReleaseInstance = value;
+    }
+
+
+
+    public Button RemoteDestroy
+    {
+        get => _remoteDestroy;
+        set => _remoteDestroy = value;
+    }
+
+    public Button RemoteUnload
+    {
+        get => _remoteUnload;
+        set => _remoteUnload = value;
+    }
+
+    public Button RemoteInstantiate
+    {
+        get => _remoteInstantiate;
+        set => _remoteInstantiate = value;
+    }
+
+    public Button RemoteReference
+    {
+        get => _remoteReference;
+        set => _remoteReference = value;
     }
 }

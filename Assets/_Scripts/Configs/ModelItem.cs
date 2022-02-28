@@ -27,6 +27,7 @@ public class ModelItem
         AsyncOperationHandle = Addressables.LoadAssetAsync<GameObject>(_modelReference);
         var cachedModel = await AsyncOperationHandle.Task;
         return cachedModel;
+        
     }
     
     public async Task<GameObject> InstantiateObjectFromReference()

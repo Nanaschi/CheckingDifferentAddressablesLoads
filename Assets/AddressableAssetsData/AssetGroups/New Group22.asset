@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: New Group22
+  m_EditorClassIdentifier: 
+  m_GroupName: New Group22
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 99dfd42824bf10a46b77bf6bf3de620c
+  m_SerializeEntries:
+  - m_GUID: a7a622ed6f6e2446aabc7e9fb8e66f86
+    m_Address: Assets/Content/Textures/Buildigs/Glassworks
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bebd67649ebbdb7409d98f04bb7d052b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1fc829a4b14029e42a8daa2e0b25db6a, type: 2}
+    - {fileID: 11400000, guid: 5d199e03abb44e848b64c4fa5153e09f, type: 2}

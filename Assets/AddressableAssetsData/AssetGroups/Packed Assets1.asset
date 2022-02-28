@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets1
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2c210bccc83e198449fa36113334552d
+  m_SerializeEntries:
+  - m_GUID: f579bd84a45a1704ba77c13b3b9c52de
+    m_Address: Assets/Content/Textures/Universal_Exterior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: effb5a463a1524ad5888706de1d143d7
+    m_Address: Assets/Content/Textures/Tiles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2cb8d49bcc7bbcc488cf7d87bada5fa1
+    m_Address: Assets/Content/Textures/Interiors/Unical/Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2994257f349c50a419ef0bdad543eaef
+    m_Address: Assets/Content/Textures/Interiors/Universal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11ea19f64491ddc4c9fe947a3293cea0
+    m_Address: Assets/Content/Textures/Interiors/WallPaper
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d961a3e2712af1841974420604c550a6
+    m_Address: Assets/Content/Textures/Interiors/Unical/Gameplay.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f03907ec1e3fbca479fe7d9fe25f65d2
+    m_Address: Assets/Content/Textures/Interiors/Unical/GrandPiano.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe4b05143a6eda145955e4c870b2e23b
+    m_Address: Assets/Content/Textures/Interiors/Unical/Leaves_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd2f0fa2086374743bfe4617b73742d6
+    m_Address: Assets/Content/Textures/Interiors/Unical/Logo_ETH.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c3ab882578e7474f9eba69cd2d458e6
+    m_Address: Assets/Content/Textures/Interiors/Unical/Logo_TRON.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 324d58a9e5726de4db9ea988abac3251
+    m_Address: Assets/Content/Textures/Interiors/Unical/MCP_Screen.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f40594c61e9a2ef41b01e08f88bdb300
+    m_Address: Assets/Content/Textures/Interiors/Unical/MCP_Screen_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 765c541b3962c40799ae239b3c0c6472
+    m_Address: Assets/Content/Textures/Interiors/Unical/MCP_Screen_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1b0f908087160b4dace78af84168ed6
+    m_Address: Assets/Content/Textures/Interiors/Unical/showcase.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e72d0fb94354a140a9944dd120d4010
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Art_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1af84ee5cc4a0fa488f9fb315f5c5e2b
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Art_4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed5a6f6d95f6f154ab7db8ec0b454879
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Astro_1a.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da48388a3a87b8043a5437215e6f75b8
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/BCT_UV_Checker_001_1024.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2ab86033e6814645bd044d714b693e2
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Citizen_002 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dd601e501d3006419ed08bee3f5ed37
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Fontanto_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49f20515e63b6994792c30bf14592270
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Gnomi_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a203be92084e4d64aa6eea9a62a4f6d1
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Gnomi_2a.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 934a29b9cd38e0143b8b758aae271de6
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Invisible.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f2cf4aa9f7873a45a948863452e7ee9
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Mans_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93105ccc40632bb4c8059249f535d2cc
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/photo_2021-02-18_19-16-37.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 758a71ee112b57d469589f2e558de6e5
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/photo_2021-03-04_18-35-01.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5bbc8e28493cca4aa3d6f65f505a7b4
+    m_Address: Assets/Content/Textures/Interiors/Unical/Arts/Screen Man 006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bebd67649ebbdb7409d98f04bb7d052b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eee3b298def08bd4eb2080b44d70315e, type: 2}
+    - {fileID: 11400000, guid: 204660a0942430f45aabafd733bbcb6e, type: 2}

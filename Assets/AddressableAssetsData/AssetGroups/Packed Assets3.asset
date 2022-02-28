@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets3
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets3
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a2a46eb11f7637249b224c581eba53c9
+  m_SerializeEntries:
+  - m_GUID: d809cff2249484ebf970b5e4cf5516c7
+    m_Address: Assets/Content/Models/Buildings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17511354a35d84c329e2271f46d36b69
+    m_Address: Assets/Content/Models/Apparel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c0a1c9a60ea4eb41a793cb5f03fa940
+    m_Address: Assets/Content/Materials/Universal_Exterior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a3f46443b8e5d440be254a9236aef18
+    m_Address: Assets/Content/Materials/Tiles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f64f6ef5475199840ad37c13d1051d95
+    m_Address: Assets/Content/Materials/MapMaterials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b812b3441adf86d46a19ac04ef71935e
+    m_Address: Assets/Content/Materials/Interrior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 581036bba4873f54b95644f13c12cad7
+    m_Address: Assets/Content/Materials/Exterior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 905ccf3a6f05b0e4cb57b050df149066
+    m_Address: Assets/Content/Materials/Environment
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bebd67649ebbdb7409d98f04bb7d052b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e8b4823106c99b14ca46d0fc748476f3, type: 2}
+    - {fileID: 11400000, guid: 7a338c875eda5754192b941f4b9218e4, type: 2}

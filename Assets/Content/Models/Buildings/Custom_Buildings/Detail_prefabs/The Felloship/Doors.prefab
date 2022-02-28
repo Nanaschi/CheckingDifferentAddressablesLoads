@@ -1,0 +1,318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1041480756460218189
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1041480756460218188}
+  m_Layer: 0
+  m_Name: Doors
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1041480756460218188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1041480756460218189}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 34.88012, y: -165.88625, z: 17.456924}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 625960027153547360}
+  - {fileID: 8062049343486353664}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3842449332120470638
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3757598832416985350, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+  m_PrefabInstance: {fileID: 4017676794827607004}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 625960027153547360}
+  - component: {fileID: 5365147137200020922}
+  - component: {fileID: 4148660108418486838}
+  m_Layer: 0
+  m_Name: Porch_Door_009
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &625960027153547360
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+  m_PrefabInstance: {fileID: 4017676794827607004}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3842449332120470638}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8, y: 0, z: 14}
+  m_LocalScale: {x: 1.6, y: 1.6, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1041480756460218188}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5365147137200020922
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 630969055781340185, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+  m_PrefabInstance: {fileID: 4017676794827607004}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3842449332120470638}
+  m_Mesh: {fileID: 2721487933866879192, guid: 23fb8fadffee67148b993909d45a088f, type: 3}
+--- !u!23 &4148660108418486838
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3397209774961242323, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+  m_PrefabInstance: {fileID: 4017676794827607004}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3842449332120470638}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: ce738d4e6d91c9c4db856783ac048ae1, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &6932216087895292737
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1614852534298178317, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+  m_PrefabInstance: {fileID: 8268868777444624567}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8062049343486353664}
+  - component: {fileID: 4907726212434949078}
+  - component: {fileID: 9115543885825661761}
+  m_Layer: 0
+  m_Name: Porch_Stair_04m_tp2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8062049343486353664
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+  m_PrefabInstance: {fileID: 8268868777444624567}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6932216087895292737}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8, y: 0, z: 14}
+  m_LocalScale: {x: 1.6, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1041480756460218188}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4907726212434949078
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3066125523546809874, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+  m_PrefabInstance: {fileID: 8268868777444624567}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6932216087895292737}
+  m_Mesh: {fileID: 5345719317688112942, guid: d2f81dbd7b54a1546a6a7c51d3937399, type: 3}
+--- !u!23 &9115543885825661761
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 966558281270350552, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+  m_PrefabInstance: {fileID: 8268868777444624567}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6932216087895292737}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c91f82d20a967d146b6b8d7defac3d2c, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &4017676794827607004
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1041480756460218188}
+    m_Modifications:
+    - target: {fileID: 3757598832416985350, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_Name
+      value: Porch_Door_009
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570727656119815100, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0a85676772705114a8d766cf8634cfd8, type: 3}
+--- !u!1001 &8268868777444624567
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1041480756460218188}
+    m_Modifications:
+    - target: {fileID: 1614852534298178317, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_Name
+      value: Porch_Stair_04m_tp2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099464120176421303, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 840e3da6488776e4e8e09fc50a89da50, type: 3}

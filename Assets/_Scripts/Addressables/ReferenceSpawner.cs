@@ -10,9 +10,9 @@ public class ReferenceSpawner : MonoBehaviour, ISpawnableProvider
     [SerializeField] private UIReferenceController _uiReferenceController;
     private void Awake()
     {
-        _uiReferenceController.ContentToInstantiate.onClick.AddListener(InstantiateContent);
-        _uiReferenceController.ReferenceToInstantiate.onClick.AddListener(InstantiateAssetReference);
-        _uiReferenceController.ReferenceToInstantiateRemotely.onClick.AddListener(InstantiateAssetReferenceRemotely);
+        _uiReferenceController.RemoteReference.onClick.AddListener(InstantiateContent);
+        _uiReferenceController.RemoteInstantiate.onClick.AddListener(InstantiateAssetReference);
+        _uiReferenceController.RemoteUnload.onClick.AddListener(InstantiateAssetReferenceRemotely);
     }
 
     public void InstantiateContent()
@@ -29,6 +29,6 @@ public class ReferenceSpawner : MonoBehaviour, ISpawnableProvider
     public async void InstantiateAssetReferenceRemotely()
     {
         Instantiate(await _setOfTileItems.Items[1].ModelItem.GetObjectFromReference(),
-            new Vector3(-7, 0, 0), Quaternion.identity);
+            new Vector3(-11, 0, 0), Quaternion.identity);
     }
 }

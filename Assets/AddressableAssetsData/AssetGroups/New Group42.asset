@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: New Group42
+  m_EditorClassIdentifier: 
+  m_GroupName: New Group42
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 91cda4b6f157c354186ef223d6135073
+  m_SerializeEntries:
+  - m_GUID: ece00410122f34c3fbdc8c99f2499f71
+    m_Address: Assets/Content/Textures/Interiors/Showcase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bebd67649ebbdb7409d98f04bb7d052b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5e1069de87f7d854d95069b5c18a1736, type: 2}
+    - {fileID: 11400000, guid: 2021b92a485361a48b2bb44dcc86cba2, type: 2}

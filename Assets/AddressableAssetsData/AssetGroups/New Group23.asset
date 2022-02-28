@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: New Group23
+  m_EditorClassIdentifier: 
+  m_GroupName: New Group23
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a03c77a1f9f49304192342e51354a196
+  m_SerializeEntries:
+  - m_GUID: d06da0efacad34154a74ad0421c2433c
+    m_Address: Assets/Content/Textures/Buildigs/Office_Block
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bebd67649ebbdb7409d98f04bb7d052b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 10b48e3494bc63048b0d36398f75daef, type: 2}
+    - {fileID: 11400000, guid: 439e1ea0f7171a94db772e180bf8bd6c, type: 2}

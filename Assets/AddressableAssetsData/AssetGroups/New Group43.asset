@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: New Group43
+  m_EditorClassIdentifier: 
+  m_GroupName: New Group43
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6fe00c3343342c247917e56d832e6841
+  m_SerializeEntries:
+  - m_GUID: 05a017e11a611cf4b80434646b796eab
+    m_Address: Assets/Content/Maps/Hospital/Interior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bebd67649ebbdb7409d98f04bb7d052b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 95061b477fa0a9b41abd8dec0885c59e, type: 2}
+    - {fileID: 11400000, guid: 1a73b12db40365a49bf9d4c0e438c0f1, type: 2}
