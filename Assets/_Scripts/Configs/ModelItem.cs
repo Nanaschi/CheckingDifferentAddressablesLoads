@@ -15,6 +15,14 @@ public class ModelItem
     
     [SerializeField] private AssetReference _modelReference;
     public AsyncOperationHandle<GameObject> AsyncOperationHandle { get; set; }
+    private GameObject _cachedModel;
+
+    public GameObject CachedModel
+    {
+        get => _cachedModel;
+        set => _cachedModel = value;
+    }
+
     public AssetReference ModelReference
     {
         get => _modelReference;
@@ -25,8 +33,8 @@ public class ModelItem
     public async Task<GameObject> GetObjectFromReference() 
     {
         AsyncOperationHandle = Addressables.LoadAssetAsync<GameObject>(_modelReference);
-        var cachedModel = await AsyncOperationHandle.Task;
-        return cachedModel;
+        _cachedModel = await AsyncOperationHandle.Task;
+        return _cachedModel;
     }
 
     public void ReleaseReference()
@@ -37,13 +45,13 @@ public class ModelItem
     public async Task<GameObject> InstantiateObjectFromReference()
     {
         var handle = Addressables.InstantiateAsync(_modelReference);
-        var _model = await handle.Task;
-        return _model;
+        _cachedModel = await handle.Task;
+        return _cachedModel;
     }
     
     public void ReleaseInstantiateObjectFromReference()
     {
-        var handle = Addressables.ReleaseInstance(InstantiateObjectFromReference().Result);
+        Addressables.ReleaseInstance(_cachedModel);
     }
     
     

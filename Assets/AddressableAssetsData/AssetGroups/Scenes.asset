@@ -21,6 +21,10 @@ MonoBehaviour:
     m_Address: Various Cars
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 22e831e124f89104fab1052e2175de68
+    m_Address: Empty
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bebd67649ebbdb7409d98f04bb7d052b, type: 2}
   m_SchemaSet:

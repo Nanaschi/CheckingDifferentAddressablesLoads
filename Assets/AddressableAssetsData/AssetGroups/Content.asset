@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Content
+  m_EditorClassIdentifier: 
+  m_GroupName: Content
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 30ba4afac6f26794ca8fe32284c0a837
+  m_SerializeEntries:
+  - m_GUID: 7636ee734f1153942ab030fac3f6e836
+    m_Address: Assets/Content/Configs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53d6030fc6a2faa498e1038459790ce9
+    m_Address: Assets/Content/Effects
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5fc3ff0bec914407ab818f52eb013f2f
+    m_Address: Assets/Content/Maps
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af1d229f03adf6e4c995a8f9b77635c7
+    m_Address: Assets/Content/Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34abcb6942d5a4513a65ebdd0b0501f2
+    m_Address: Assets/Content/Models
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 017bbbc6f15502345bfa332a1fcd89bd
+    m_Address: Assets/Content/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a8b2f92ce6aede439746b5e38c2d492
+    m_Address: Assets/Content/Shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 700d8d96b8197f34699f792c671b3daa
+    m_Address: Assets/Content/Textures/Buildigs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83f655360d0dd4538abb1f45a9e3cded
+    m_Address: Assets/Content/Textures/Characters
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5aae03e55cf3c14aa9ecedbfa4a54ab
+    m_Address: Assets/Content/Textures/Exterior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a78d82e2cbbd0d04d8fafc1b3d9fdada
+    m_Address: Assets/Content/Textures/Grass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31454229932daaa4096e5aef1d465e0d
+    m_Address: Assets/Content/Textures/Interiors
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: effb5a463a1524ad5888706de1d143d7
+    m_Address: Assets/Content/Textures/Tiles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f579bd84a45a1704ba77c13b3b9c52de
+    m_Address: Assets/Content/Textures/Universal_Exterior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bebd67649ebbdb7409d98f04bb7d052b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ef6beb4a5752df0449411328420df0ac, type: 2}
+    - {fileID: 11400000, guid: ad502fce6fc498d498cc2aff620e6e34, type: 2}

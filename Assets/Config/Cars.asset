@@ -42,43 +42,7 @@ MonoBehaviour:
     ModelItem:
       ContentModel: {fileID: 0}
       _modelReference:
-        m_AssetGUID: 6549578ac8ea0c54e8df2f7531ce69c2
-        m_SubObjectName: 
-        m_SubObjectType: 
-        m_EditorAssetChanged: 0
-      Rotation: 0
-      Scale: 0
-      Position: {x: 0, y: 0, z: 0}
-  - Id: 0
-    Title: 
-    PreviewTexture:
-      Texture: {fileID: 0}
-      AssetReferenceTexture2D:
-        m_AssetGUID: 
-        m_SubObjectName: 
-        m_SubObjectType: 
-        m_EditorAssetChanged: 0
-      Rotation: 0
-    TGHTexture:
-      Texture: {fileID: 0}
-      AssetReferenceTexture2D:
-        m_AssetGUID: 
-        m_SubObjectName: 
-        m_SubObjectType: 
-        m_EditorAssetChanged: 0
-      Rotation: 0
-    InteractiveMap:
-      Texture: {fileID: 0}
-      AssetReferenceTexture2D:
-        m_AssetGUID: 
-        m_SubObjectName: 
-        m_SubObjectType: 
-        m_EditorAssetChanged: 0
-      Rotation: 0
-    ModelItem:
-      ContentModel: {fileID: 0}
-      _modelReference:
-        m_AssetGUID: 7858e269772ce2f4783507ec438ee0d1
+        m_AssetGUID: 38d42652cfdd745c981426368e33f79c
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
